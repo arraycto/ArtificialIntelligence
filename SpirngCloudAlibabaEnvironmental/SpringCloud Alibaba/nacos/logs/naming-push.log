@@ -1,0 +1,338 @@
+2020-06-21 08:48:40,244 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 09:13:41,348 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 09:13:44,673 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 09:13:54,054 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:22:34,744 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:22:34,744 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:22:49,920 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:23:10,104 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:26:39,164 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:26:53,370 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 09:26:56,044 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 09:26:59,034 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:35:05,936 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:35:20,955 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:35:26,095 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:37:33,625 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 09:37:33,660 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:37:33,700 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 09:44:44,095 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 09:44:55,110 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 09:44:59,424 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:46:10,521 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 09:46:10,544 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 09:46:10,570 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:11:09,644 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 10:11:26,846 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 10:11:41,320 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:14:14,296 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 10:14:31,547 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:14:31,547 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:14:46,636 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:37:40,343 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 10:38:01,628 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:38:51,113 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:39:09,438 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:49:14,210 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:53:19,314 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 10:53:19,349 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:53:31,927 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:53:36,926 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:53:46,933 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:53:51,933 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:54:49,201 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 10:54:51,674 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:54:55,301 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:55:06,250 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:55:19,420 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:56:40,212 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:56:46,518 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 10:57:15,252 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 10:57:18,064 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 11:00:14,536 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 11:00:32,488 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 11:00:32,518 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 11:00:32,538 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 11:00:32,539 INFO serviceName: DEFAULT_GROUP@@user-provider changed, schedule push for: 192.168.2.202:58717, agent: Nacos-Java-Client:v1.1.1, key: 192.168.2.202,58717,9425784953800
+
+2020-06-21 11:00:32,539 INFO send udp packet: 192.168.2.202,58717,9425784953800
+
+2020-06-21 11:00:42,541 INFO retry to push data, key: 192.168.2.202,58717,9425784953800
+
+2020-06-21 11:00:42,541 INFO send udp packet: 192.168.2.202,58717,9425784953800
+
+2020-06-21 11:00:52,543 INFO retry to push data, key: 192.168.2.202,58717,9425784953800
+
+2020-06-21 11:00:52,543 WARN max re-push times reached, retry times 2, key: 192.168.2.202,58717,9425784953800
+
+2020-06-21 12:07:35,709 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:09:18,202 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:09:25,629 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:09:41,616 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:10:19,167 INFO DEFAULT_GROUP@@user-providers is changed, add it to push queue.
+
+2020-06-21 12:10:30,834 INFO DEFAULT_GROUP@@user-providers is changed, add it to push queue.
+
+2020-06-21 12:10:39,659 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:11:13,731 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:12:05,814 INFO DEFAULT_GROUP@@user-providers is changed, add it to push queue.
+
+2020-06-21 12:12:20,250 INFO DEFAULT_GROUP@@user-providers is changed, add it to push queue.
+
+2020-06-21 12:16:35,607 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:17:00,837 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:17:08,731 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:17:47,220 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:19:58,498 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:25:28,128 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 12:25:43,135 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 12:27:52,423 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 12:36:33,097 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:37:16,758 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 12:37:53,385 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 12:37:53,411 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 12:44:49,893 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 12:44:56,310 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 12:48:06,250 INFO DEFAULT_GROUP@@special-provider is changed, add it to push queue.
+
+2020-06-21 12:48:13,186 INFO DEFAULT_GROUP@@special-provider is changed, add it to push queue.
+
+2020-06-21 12:51:45,145 INFO DEFAULT_GROUP@@website-provider is changed, add it to push queue.
+
+2020-06-21 12:51:51,259 INFO DEFAULT_GROUP@@website-provider is changed, add it to push queue.
+
+2020-06-21 12:53:48,425 INFO DEFAULT_GROUP@@article-provider is changed, add it to push queue.
+
+2020-06-21 12:53:53,810 INFO DEFAULT_GROUP@@article-provider is changed, add it to push queue.
+
+2020-06-21 12:56:01,403 INFO DEFAULT_GROUP@@link-provider is changed, add it to push queue.
+
+2020-06-21 12:56:45,917 INFO DEFAULT_GROUP@@link-provider is changed, add it to push queue.
+
+2020-06-21 13:02:27,107 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 13:03:17,643 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 13:07:02,618 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 13:10:41,631 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 13:16:43,448 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 13:17:31,693 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 13:18:00,371 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 14:59:31,272 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 14:59:57,176 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 15:05:29,358 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 15:05:56,916 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:06:19,254 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:07:32,158 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:09:25,292 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:10:04,535 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:12:52,547 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:35:11,007 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 15:36:29,617 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 15:36:38,451 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 15:36:44,717 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 15:37:26,173 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:38:16,447 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 15:41:31,342 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:41:31,342 INFO serviceName: DEFAULT_GROUP@@authentication-authorization changed, schedule push for: 192.168.2.202:60836, agent: Nacos-Java-Client:v1.1.1, key: 192.168.2.202,60836,26284588755600
+
+2020-06-21 15:41:31,342 INFO send udp packet: 192.168.2.202,60836,26284588755600
+
+2020-06-21 15:41:31,375 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 15:41:31,392 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 15:41:31,392 INFO serviceName: DEFAULT_GROUP@@user-provider changed, schedule push for: 192.168.2.202:60836, agent: Nacos-Java-Client:v1.1.1, key: 192.168.2.202,60836,26284638804500
+
+2020-06-21 15:41:31,392 INFO send udp packet: 192.168.2.202,60836,26284638804500
+
+2020-06-21 15:41:41,346 INFO retry to push data, key: 192.168.2.202,60836,26284588755600
+
+2020-06-21 15:41:41,346 INFO send udp packet: 192.168.2.202,60836,26284588755600
+
+2020-06-21 15:41:41,394 INFO retry to push data, key: 192.168.2.202,60836,26284638804500
+
+2020-06-21 15:41:41,394 INFO send udp packet: 192.168.2.202,60836,26284638804500
+
+2020-06-21 15:41:46,751 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:41:51,348 INFO retry to push data, key: 192.168.2.202,60836,26284588755600
+
+2020-06-21 15:41:51,348 WARN max re-push times reached, retry times 2, key: 192.168.2.202,60836,26284588755600
+
+2020-06-21 15:41:51,397 INFO retry to push data, key: 192.168.2.202,60836,26284638804500
+
+2020-06-21 15:41:51,397 WARN max re-push times reached, retry times 2, key: 192.168.2.202,60836,26284638804500
+
+2020-06-21 15:41:54,186 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 15:41:57,767 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 15:42:00,809 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 15:42:05,555 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 15:42:10,187 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 15:42:16,066 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 15:42:34,394 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 15:42:39,112 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 15:43:05,516 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 15:43:05,542 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2020-06-21 15:43:05,620 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 15:43:05,701 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 15:43:26,607 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 15:43:30,719 INFO DEFAULT_GROUP@@special-provider is changed, add it to push queue.
+
+2020-06-21 15:43:34,980 INFO DEFAULT_GROUP@@column-provider is changed, add it to push queue.
+
+2020-06-21 15:43:35,006 INFO DEFAULT_GROUP@@special-provider is changed, add it to push queue.
+
+2020-06-21 16:14:17,589 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 16:15:02,195 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 16:15:50,515 INFO DEFAULT_GROUP@@authentication-authorization is changed, add it to push queue.
+
+2020-06-21 16:15:50,545 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 16:32:27,210 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 16:32:40,891 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:00:06,426 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-06-21 17:03:35,906 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:04:06,914 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:04:21,919 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:07:03,016 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:07:16,578 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:08:37,874 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:08:49,778 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:09:26,613 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:09:47,167 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:10:56,782 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:11:17,439 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:13:34,207 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:13:46,112 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:23:39,821 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-06-21 17:23:55,496 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+

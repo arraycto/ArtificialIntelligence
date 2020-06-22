@@ -1,0 +1,32 @@
+2020-06-21 14:59:27,718 INFO [dump-all-ok] user-provider-dev.yaml+DEV_GROUP, 1592714171000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 14:59:27,719 INFO [dump-all-ok] column-provider-dev.yaml+DEV_GROUP, 1592714658000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 14:59:27,720 INFO [dump-all-ok] special-provider-dev.yaml+DEV_GROUP, 1592714854000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 14:59:27,721 INFO [dump-all-ok] website-provider-dev.yaml+DEV_GROUP, 1592715064000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 14:59:27,721 INFO [dump-all-ok] article-provider-dev.yaml+DEV_GROUP, 1592715201000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 14:59:27,723 INFO [dump-all-ok] link-provider-dev.yaml+DEV_GROUP, 1592715334000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 14:59:27,724 INFO [dump-all-ok] gateway-dev.yaml+DEV_GROUP, 1592715992000, length=492, md5=0bde5c8ce9abb94a21231055ea6c1eea
+
+2020-06-21 14:59:27,724 INFO [dump-all-ok] authentication-authorization-dev.yaml+DEV_GROUP, 1592716368000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,888 INFO [dump-all-ok] user-provider-dev.yaml+DEV_GROUP, 1592714171000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,889 INFO [dump-all-ok] column-provider-dev.yaml+DEV_GROUP, 1592714658000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,889 INFO [dump-all-ok] special-provider-dev.yaml+DEV_GROUP, 1592714854000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,890 INFO [dump-all-ok] website-provider-dev.yaml+DEV_GROUP, 1592715064000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,890 INFO [dump-all-ok] article-provider-dev.yaml+DEV_GROUP, 1592715201000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,891 INFO [dump-all-ok] link-provider-dev.yaml+DEV_GROUP, 1592715334000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+
+2020-06-21 15:05:12,892 INFO [dump-all-ok] gateway-dev.yaml+DEV_GROUP, 1592715992000, length=492, md5=0bde5c8ce9abb94a21231055ea6c1eea
+
+2020-06-21 15:05:12,892 INFO [dump-all-ok] authentication-authorization-dev.yaml+DEV_GROUP, 1592716368000, length=1434, md5=f5ee436b2abddd7d9f483c2d5715eadc
+

@@ -1,0 +1,36 @@
+zuul:
+  host:
+    connect-timeout-millis: 60000
+    socket-timeout-millis: 60000
+  retryable: true
+  add-host-header: true
+  ignored-services: "*" #忽略所有真实服务地址
+  sensitive-headers: "*"
+  routes:
+    authentication-authorization:
+      path: /authentication-authorization/**
+      serviceId: authentication-authorization
+    user-provider:
+      path: /user/**
+      serviceId: user-provider
+    column-provider:
+      path: /column/**
+      serviceId: column-provider
+    special-provider:
+      path: /special/**
+      serviceId: special-provider
+    website-provider:
+      path: /website/**
+      serviceId: website-provider
+    article-provider:
+      path: /article/**
+      serviceId: article-provider
+    link-provider:
+      path: /link/**
+      serviceId: link-provider
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*" #暴露需要监控的内容
